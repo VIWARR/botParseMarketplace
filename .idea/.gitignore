@@ -125,3 +125,5 @@ dmypy.json
 # Thonny
 .idea/
 *.thn
+
+bot/config.py
